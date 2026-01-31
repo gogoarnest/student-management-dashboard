@@ -4,7 +4,7 @@ A web-based dashboard for managing student records with authentication and datab
 Built with HTML, CSS, JavaScript, PHP, and MySQL.
 
 ## Live Demo
-https://student-dashboard.infinityfreeapp.com
+https://student-dashboard.infinityfreeapp.com/login.php
 
 ## Demo Login
 - Username: admin
